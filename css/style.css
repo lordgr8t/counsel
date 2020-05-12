@@ -181,3 +181,34 @@ li a{
 	padding: 10px;
 	border-radius: 5px;
 }
+
+/*container popular services (cps)*/
+
+.cps {
+	max-width: 1170px;
+	margin: 0 auto;
+	height: 669px;
+}
+.cps_title {
+	margin-top: 100px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+.cps_undertitle {
+	text-align: center;
+	margin-bottom: 46px;
+}
+.cps_block_title {
+	margin-top: 37px;
+	margin-bottom: 30px;
+	color: #002e5b;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+.cps_block_text {
+	color: #333;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+}
