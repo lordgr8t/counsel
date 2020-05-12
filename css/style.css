@@ -324,3 +324,31 @@ li a{
 	font-weight: 300;
 	margin-top: 15px;
 }
+
+/* footer */
+
+.footer_bg{
+	background-color:  #002e5b;
+}
+
+.footer {
+	max-width: 1170px;
+	margin: 0 auto;
+	height: 80px;
+}
+.footer_l{
+	padding-top: 35px;
+}
+.copywrite_white {
+	color: #fff;
+}
+.copywrite_yellow {
+	color: #fde428;
+}
+
+#sociac_image{
+	height: 15px;
+	width: 15px;
+	margin-top: 35px;
+	margin-right: 20px;
+}
