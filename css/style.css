@@ -236,3 +236,29 @@ li a{
 	color: #fff;
 	font-size: 14px;
 }
+
+
+/*video container (vidc)*/
+
+.video_container {
+	max-width: 1170px;
+	margin: 0 auto;
+	height: 525px;
+}
+.vidc_yellowbox {
+	position: relative;
+	left: 121px;
+}
+iframe{
+	position: relative;
+	top: -425px;
+}
+.vidc_title {
+	margin-top: 98px;
+	margin-bottom: 28px;
+}
+.vidc_text {
+	margin-top: 26px;
+	margin-bottom: 36px;
+}
+
