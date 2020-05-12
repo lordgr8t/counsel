@@ -212,3 +212,27 @@ li a{
 	font-size: 14px;
 	font-weight: 300;
 }
+
+/*container big stats (cbs)*/
+
+.cbs_bg {
+	background-color: #002e5b;
+}
+.cbs {
+	max-width: 1170px;
+	margin: 0 auto;
+	height: 360px;
+	text-align: center;
+}
+.cbs_title {
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	font-size: 50px;
+	margin-top: 140px;
+	margin-bottom: 30px;
+}
+.cbs_undertitle {
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	font-size: 14px;
+}
