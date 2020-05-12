@@ -262,3 +262,29 @@ iframe{
 	margin-bottom: 36px;
 }
 
+/*big text block (btb)*/
+
+.btb_bg {
+	background-color: #06294a;
+}
+.btb {
+	max-width: 1170px;
+	margin: 0 auto;
+	height: 540px;
+	text-align: center;
+}
+.btb_title {
+	font-size: 80px;
+	color:#fff;
+	padding-top: 125px;
+	margin-bottom: 12px;
+}
+.btb_text {
+	color:#fff;
+	margin-bottom: 80px;
+	line-height: 3;
+	font-weight: 300;
+}
+.btb_footer_text {
+	color:#fff;
+}
