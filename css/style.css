@@ -155,3 +155,29 @@ li a{
 	margin-bottom: 45px;
 }
 
+/*little container contact now (conn)*/
+
+.conn_bg {
+	background-color: #002e5b;
+}
+.conn {
+	max-width: 1170px;	
+	margin: 0 auto;
+	height: 91px;
+}
+.conn_text {
+	margin-top: 37px;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+}
+.conn_btn {
+	margin-top: 24px;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	border:solid 1px #fde428;
+	background-color: #fde428;
+	color: #002e5b;
+	font-weight: 800;
+	padding: 10px;
+	border-radius: 5px;
+}
