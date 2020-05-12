@@ -1,0 +1,157 @@
+/*font-family: 'Montserrat', sans-serif;*/
+*{
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+/*clsses*/
+.dflex{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+.jcsb{
+	justify-content: space-between;
+}
+.mont_t{
+	font-family: 'Montserrat', sans-serif;
+}
+.mont_big{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+}
+h1{
+	text-transform: uppercase;
+	font-size: 25px;
+	color: #002e5b;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+}
+h2{
+	color: #666;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+}
+h3{
+	color: #333;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 14px;
+}
+.a_title {
+	font-size: 16px;
+	text-decoration: underline;
+	color: #002e5b;
+	text-transform: uppercase;
+}
+/*clsses*/
+
+/*welcome container (wlc)*/
+
+.welcome_container_bg {
+	background-image: url(../img/bg.png);
+	height: 896px;
+
+}
+.welcome_container {
+	max-width: 1170px;
+	height: 150px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+ul{
+	list-style: none;
+	margin-top: 25px;
+}
+li a{
+	margin-left: 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+}
+.wlc_l {
+}
+.wlc_l_text {
+	color: #fde428;
+	text-transform: uppercase;
+	margin-top: 400px;
+}
+.wlc_r {
+}
+.wlc_r_titletext {
+	font-size: 48px;
+	color: #fff;
+	position: relative;
+	top: 269px;
+	left: -180px;
+}
+.wlc_r_a {
+	text-decoration: underline;
+	color: #fde428;
+	font-size: 22px;
+	position: relative;
+	top: 296px;
+	left: -74px;
+	font-weight: 600;
+}
+.wlc_r_img {
+	margin-bottom: 160px;
+}
+
+/*container under welcome container (cuwc)*/
+
+.cuwc {
+	max-width: 1170px;
+	margin: 0 auto;
+	height: 524px;
+}
+.cuwc_title {
+	margin-top: 100px;
+}
+.cuwc_undertitle {
+	margin-top: 28px;
+}
+.cuwc_text {
+	margin-top: 24px;
+	margin-bottom: 16px;
+}
+.cuwc_r {
+	height: 524px;
+}
+.cuwc_box_yellow {
+	position: relative;
+	left: 125px;
+}
+.cuwc_box_gray {
+	position: relative;	
+	top: -430px;	
+}
+
+/*statistic container (stat)*/
+
+.stat_bg {
+	background-color: #f4f4f4;
+}
+.stat {
+	max-width: 1170px;
+	margin: 0 auto;
+	height: 686px;
+}
+.graphic {
+	margin-top: 101px;
+}
+.stattitle {
+	margin-top: 101px;
+	margin-bottom: 27px;
+}
+.stattext {
+	margin-top: 29px;
+	margin-bottom: 45px;
+}
+
