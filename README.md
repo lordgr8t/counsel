@@ -1,2 +1,2 @@
 # easy land
-# [Show result]()
+# [Show result](https://lordgr8t.github.io/counsel/)
