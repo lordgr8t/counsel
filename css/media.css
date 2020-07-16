@@ -1,0 +1,32 @@
+@media (max-device-width: 900px){
+	li a {
+		display: none;
+	}
+	#adaptiv_btn{
+		display: block;
+	}
+	.adaptiv_btn {
+		width: 45px;
+	}
+	.adaptiv_btn_line1 {
+		width: 45px;
+		background-color: #fff;
+		height: 7px;
+		margin-bottom: 4px;
+		
+	}
+	.adaptiv_btn_line2 {
+		width: 45px;
+		background-color: #fff;
+		height: 7px;
+		margin-bottom: 4px;
+	}
+	.adaptiv_btn_line3 {
+		width: 45px;
+		background-color: #fff;
+		height: 7px;
+		margin-bottom: 4px;
+	}
+	
+
+}
